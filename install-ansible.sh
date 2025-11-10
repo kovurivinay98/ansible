@@ -19,3 +19,4 @@ if [ $userid -eq 0 ]
         echo "Not root user"
 
 
+fi
